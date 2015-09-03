@@ -1,4 +1,4 @@
-[ [English] ](#en) &nbsp; [ [한국어] ](#ko) <br>
+[ [English] ](#en) &nbsp; [ [한국어] ](#ko) <br> 
 
 #<a name="en"></a> Android Propose
 <i class="icon-cog"></i> 
